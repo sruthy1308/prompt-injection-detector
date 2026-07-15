@@ -133,8 +133,10 @@ risk_score = base_score (by attack type)
 ├── model.py             # EnsembleModel class (SVC + LR soft voting)
 ├── preprocess.py        # Text cleaning for ML input
 ├── dataset.py           # Dataset definition + model training script
+├── train.py             # Alternate training entry point
 ├── rules.py             # Legacy rule stubs
 ├── model.pkl            # Serialized trained model
+├── vectorizer.pkl       # Serialized TF-IDF vectorizer
 ├── src/
 │   ├── pages/
 │   │   ├── Index.tsx    # Main detector UI

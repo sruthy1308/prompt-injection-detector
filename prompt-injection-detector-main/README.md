@@ -1,6 +1,6 @@
 # 🛡️ Prompt Injection Detector
 
-A full-stack security tool that detects and classifies prompt injection attacks in real time. It combines a **rule-based detection engine** with a **machine learning classifier** to identify malicious, suspicious, and safe AI prompts — with a sleek cyberpunk-themed React dashboard and a FastAPI backend.
+A security tool that detects and classifies prompt injection attacks in real time. It combines a **rule-based detection engine** with a **machine learning classifier** to identify malicious, suspicious, and safe AI prompts — with a sleek cyberpunk-themed React dashboard and a FastAPI backend.
 
 ---
 
